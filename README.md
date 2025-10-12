@@ -46,7 +46,8 @@ if __name__ == "__main__":
 ```
 
 ### Результат:
-- [task_1.ipynb](./src/task_1.ipynb)
+
+- [task_1.ipynb](./src/task_1.ipynb) (код додатково відформатовано відповідно до стандартів [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html))
 
 ### Ресурси
 - [Chapter_05](https://github.com/nickolas-z/Design-and-Analysis-of-Algorithms/tree/main/Chapter_05)
@@ -59,7 +60,7 @@ if __name__ == "__main__":
 
 ### Технічні умови
 
-1. Завантажте набір даних із реального лог-файлу [lms-stage-access.log](./task_1_examples/lms-stage-access.log), що містить інформацію про IP-адреси.
+1. Завантажте набір даних із реального лог-файлу [lms-stage-access.log](./data/lms-stage-access.log), що містить інформацію про IP-адреси.
 2. Реалізуйте метод для точного підрахунку унікальних IP-адрес за допомогою структури `set`.
 3. Реалізуйте метод для наближеного підрахунку унікальних IP-адрес за допомогою `HyperLogLog`.
 4. Проведіть порівняння методів за часом виконання.
@@ -82,10 +83,11 @@ ____________________________________________________________
 Час виконання (сек.)        0.45                0.1        
 ```
 ### Результат
-- [task_2.ipynb](./src/task_2.ipynb)
+
+- [task_2.ipynb](./src/task_2.ipynb) (код додатково відформатовано відповідно до стандартів [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html))
 
 ### Ресурси
-- [Chapter_04](https://github.com/nickolas-z/Design-and-Analysis-of-Algorithms/tree/main/Chapter_04)
+- [Chapter_06](https://github.com/nickolas-z/Design-and-Analysis-of-Algorithms/tree/main/Chapter_06)
 
 
 ## Репозиторій
